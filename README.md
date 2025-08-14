@@ -28,7 +28,7 @@ Over the past years, I have:
 ---
 
 ## 📌 Featured Projects
-- **[Reactivities](https://github.com/JennifferCrystine)** – Allow users to create and join activities using react with **typescript** and **.NET**.
+- **[Reactivities](https://github.com/JennifferCrystine/Reactivities)** – Allow users to create and join activities using react with **typescript** and **.NET**.
 
 ---
 
