@@ -29,6 +29,7 @@ Over the past years, I have:
 
 ## 📌 Featured Projects
 - **[Reactivities](https://github.com/JennifferCrystine/Reactivities)** – Allow users to create and join activities using react with **typescript** and **.NET**.
+- **[Capital Gain Calculator](https://github.com/JennifferCrystine/capital-gain-legacy)** – Console Application build in **.NET** Calculates capital gains taxes on stock trading.
 
 ---
 
